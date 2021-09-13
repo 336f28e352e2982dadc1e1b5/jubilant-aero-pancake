@@ -4,6 +4,7 @@
     "version": "0.0.1",
     "documentation": "https://github.com/336f28e352e2982dadc1e1b5/jubilant-aero-pancake",
     "dependencies": [],
-    "codeowners": [],
-    "requirements": []
+    "codeowners": ["@336f28e352e2982dadc1e1b5"],
+    "requirements": [],
+    "iot_class": "cloud_polling"
   }
