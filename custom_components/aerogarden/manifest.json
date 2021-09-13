@@ -4,6 +4,6 @@
     "version": "0.0.2",
     "documentation": "https://github.com/336f28e352e2982dadc1e1b5/jubilant-aero-pancake",
     "dependencies": [],
-    "codeowners": [],
+    "codeowners": ["@336f28e352e2982dadc1e1b5"],
     "requirements": []
   }
