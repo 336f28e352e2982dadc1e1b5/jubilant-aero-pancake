@@ -1,10 +1,9 @@
 {
     "domain": "aerogarden",
     "name": "AeroGarden",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "documentation": "https://github.com/336f28e352e2982dadc1e1b5/jubilant-aero-pancake",
     "dependencies": [],
-    "codeowners": ["@336f28e352e2982dadc1e1b5"],
-    "requirements": [],
-    "iot_class": "cloud_polling"
+    "codeowners": [],
+    "requirements": []
   }
